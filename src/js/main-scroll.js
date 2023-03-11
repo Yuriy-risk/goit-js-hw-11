@@ -1,6 +1,3 @@
-import $ from 'jquery';
-
-//Make sure the user has scrolled at least double the height of the browser
 var toggleHeight = $(window).outerHeight() * 1.2;
 
 $(window).scroll(function () {

@@ -1,7 +1,7 @@
 
 import UrlCreator from './js/url-creator';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import MoreButton from './js/more-button';
+import MoreButton from './js/all-buttons';
 
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
